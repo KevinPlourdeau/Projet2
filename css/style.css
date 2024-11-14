@@ -688,6 +688,10 @@ footer {
         margin-bottom: 0px;
     }
 
+    .marseille-cards {
+        gap: 15px;
+    }
+
     .row-marseille-cards {
         flex-direction: column;
         gap: 15px;
